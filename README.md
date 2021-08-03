@@ -1,3 +1,5 @@
+![gontcharovd](https://gontcharov.be/images/logo.png)
+
 ### Hi there 👋
 
 I'm a data engineer working as an independent contractor in Belgium 🇧🇪
