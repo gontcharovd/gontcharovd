@@ -4,22 +4,18 @@
 
 I'm a data engineer working as an independent contractor in Belgium 🇧🇪
 
-My favorite tools are: Python, SQL, R, Spark, Airflow, Kafka and Docker.
+I provide data engineering development and consulting independently or as part of a team.
 
-I've assisted clients ranging from early-stage startups to large multinationals with:
+My main technologies include: Python, SQL, R, Spark, Airflow, Kafka and Docker.
 
-1. data pipelines
-2. workflow orchestration
-3. containerization
+I have delivered projects for clients ranging from early-stage startups to multinationals as well as academic and governmental institutions active in:
 
-I have a background in metallurgy, industrial software development and machine learning with professional experience in:
+- logistics
+- manufacturing
+- metallurgy
+- pharmaceuticals
 
-* pharmaceuticals
-* pyrometallurgy
-* manufacturing
-* fleet management
-
-You can learn more about me on https://gontcharov.be.
+More about me: https://gontcharov.be
 
 - 🔭 I’m currently working on becoming an Apache Airflow contributer
 - 🌱 I’m currently learning Google Cloud Platform
