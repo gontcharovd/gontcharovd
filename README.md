@@ -6,7 +6,7 @@ I'm a data engineer working as an independent contractor in Belgium 🇧🇪
 
 I provide data engineering development and consulting independently or as part of a team.
 
-My main technologies include: Python, SQL, R, Spark, Airflow, Kafka and Docker.
+My main technologies are: Python, SQL, R, Spark, Airflow, Kafka and Docker.
 
 I have delivered projects for clients ranging from early-stage startups to multinationals as well as academic and governmental institutions active in:
 
@@ -17,7 +17,7 @@ I have delivered projects for clients ranging from early-stage startups to multi
 
 More about me: https://gontcharov.be
 
-- 🔭 I’m currently working on becoming an Apache Airflow contributer
+- 🔭 I’m currently working on becoming aa GCP certified Cloud Data Engineer
 - 🌱 I’m currently learning Google Cloud Platform
 - 💬 Ask me about anything data engineering
 - 📫 How to reach me: denis@gontcharov.be
