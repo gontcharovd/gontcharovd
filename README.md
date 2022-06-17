@@ -1,24 +1,5 @@
-![gontcharovd](https://gontcharov.be/images/logo.png)
-
 ### Hi there 👋
 
-I'm a data engineer working as an independent contractor in Belgium 🇧🇪
+I’m a data engineer who helps the aluminum rolling and recycling leader Novelis with bridging the technological gap between its legacy data systems and the modern cloud. I have a technical understanding of the data and the aluminum industry through my experience as a process engineer and my metallurgical engineering education.
 
-I provide data engineering development and consulting independently or as part of a team.
-
-My main technologies are: Python, SQL, R, Spark, Airflow, Kafka and Docker.
-
-I have delivered projects for clients ranging from early-stage startups to multinationals as well as academic and governmental institutions active in:
-
-- logistics
-- manufacturing
-- metallurgy
-- pharmaceuticals
-
-More about me: https://gontcharov.be
-
-- 🔭 I’m currently working on becoming aa GCP certified Cloud Data Engineer
-- 🌱 I’m currently learning Google Cloud Platform
-- 💬 Ask me about anything data engineering
-- 📫 How to reach me: denis@gontcharov.be
-- ⚡ Fun fact: I speak 5 European languages
+I write a weekly newsletter about the challenges and opportunities of data, analytics and AI in the aluminum industry. You can subscribe and learn more about me and my work on my [website](https://www.gontcharov.be).
