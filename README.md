@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-I'm a data consultant who helps aluminium smelters reduce downtime.
-
-I write a daily newsletter on digital transformation within the aluminum industry. You can subscribe and learn more about me and my work on my [website](https://gontcharov.eu).
+I’m a data engineer who helps sustainability leaders at aluminium smelters process energy and emissions data.
