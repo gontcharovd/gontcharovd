@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I’m a data engineer who helps sustainability leaders at aluminium smelters process energy and emissions data.
+I’m a data engineer who helps AI startups in manufacturing reduce their product integration time.
