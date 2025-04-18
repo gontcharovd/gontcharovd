@@ -1,13 +1,11 @@
-### Hi there 👋
+### Hi, I'm Denis 👋
 
-I’m an OT Data Engineer who helps industrial enterprises with connecting legacy SCADA systems to Azure Databricks.
+I help industrial enterprises analyze operational data with Databricks.
 
-* SCADA integration
-* Data Quality
-* Azure Databricks
-
-### External UMH Systems Integrator
-
-Expert in implementing and integrating UMH systems, specializing in industrial automation and digital transformation. More about the [United Manufacturing Hub](https://www.umh.app/).
+1. Data analytics
+2. Data quality testing
+3. SCADA data integration
+4. Data workflow automation
+5. Databricks education
 
 ***
