@@ -2,10 +2,8 @@
 
 I help industrial enterprises analyze operational data with Databricks.
 
-1. Data analytics
-2. Data quality testing
-3. SCADA data integration
-4. Data workflow automation
-5. Databricks education
+1. SCADA data integration
+2. OT Data Quality Testing
+3. Databricks Project Guidance
 
 ***
